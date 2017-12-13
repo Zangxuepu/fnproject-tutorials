@@ -39,3 +39,8 @@ Get started with Flow with [Flow 101](../flow101-102/2017-10-10-FnProject-Flow-1
 ## Fn Flow Saga Pattern
 
 Fn Flow provides a way to orchestrate functions to build sophisticated applications--initially using Java and soon with other programming languages.  [In this tutorial you will learn how to use Fn Flow to implement a Java travel booking system that leverages functions written in a variety of languages.](FlowSaga/README.md)
+
+## Prometheus and Grafana
+
+[In this tutorial, see how to use Grafana to visualize Prometheus format
+metrics that are produced by the Fn server.](https://github.com/fnproject/fn/tree/master/examples/grafana)
