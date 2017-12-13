@@ -34,7 +34,7 @@ define an Fn function using a custom built Docker containeer.](ContainerAsFuncti
 
 ## Introducing Flow
 
-Get started with Flow with [Flow 101](../flow101-102/2017-10-10-FnProject-Flow-101.md) & [Flow 102](../flow101-102/2017-10-11-FnProject-Flow-102.md)
+Get started with Flow with [Flow 101](https://github.com/shaunsmith/flow101-102/blob/master/2017-10-10-FnProject-Flow-101.md) & [Flow 102](https://github.com/shaunsmith/flow101-102/blob/master/2017-10-11-FnProject-Flow-102.md)
 
 ## Fn Flow Saga Pattern
 
