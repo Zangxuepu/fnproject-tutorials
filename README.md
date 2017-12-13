@@ -27,7 +27,11 @@ Fn has an easy way to write tests for any language, that can ensure you don't br
 
 [Learn how to write asynchronous functions for expensive, long running or batch processing.](Async/README.md)
 
-## Fn Flow
+## Introducing Flow
+
+Get started with Flow with [Flow 101](../flow101-102/2017-10-10-FnProject-Flow-101.md) & [Flow 102](../flow101-102/2017-10-11-FnProject-Flow-102.md)
+
+## Fn Flow Saga Pattern
 
 Fn Flow provides a way to orchestrate functions to build sophisticated applications--initially using Java and soon with other programming languages.  [In this tutorial you will learn how to use Fn Flow to implement a Java travel booking system that leverages functions written in a variety of languages.](FlowSaga/README.md)
 
