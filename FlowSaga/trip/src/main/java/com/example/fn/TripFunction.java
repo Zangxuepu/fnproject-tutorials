@@ -96,4 +96,4 @@ public class TripFunction implements Serializable {
             () -> Flows.currentFlow().invokeFunction(cancelFn, input, BookingRes.class));
         return Flows.currentFlow().failedFuture(e);
     }
-}
+} 
